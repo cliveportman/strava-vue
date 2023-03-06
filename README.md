@@ -10,6 +10,3 @@ https://www.strava.com/oauth/token?client_id=17771&client_secret=[client_secret 
 
 That will return an access_token as part of the response.
 Use that within App.Vue to make the requests.
-
-
-https://www.strava.com/oauth/token?client_id=17771&client_secret=5828df4ff9eda72dd55e58769fcc4ce988ca9afe&code=7317a8ef0f15cd0818a0cc98814509d553a954b6&grant_type=authorization_code
